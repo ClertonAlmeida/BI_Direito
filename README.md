@@ -1,4 +1,5 @@
-# Power-BI---Dados-de-Varejo --- aula pratica do curso de Power BI da https://www.eia.ai/
+# Power BI Dados de Varejo   
+
 Conhecendo e tratando os dados, formulando perguntas, desenvolvendo Dashboards e publicando
 
 
