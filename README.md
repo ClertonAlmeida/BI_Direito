@@ -10,7 +10,6 @@ Conhecendo e tratando os dados, formulando perguntas, desenvolvendo Dashboards e
 
 
 
-
 # Foram feitas as seguintes perguntas:
 
 
