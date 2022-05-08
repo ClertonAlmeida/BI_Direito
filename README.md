@@ -18,3 +18,7 @@ Conhecendo e tratando os dados, formulando perguntas, desenvolvendo Dashboards e
 
 
 # Neste curso desenvolvi a habilidade de modelagem dos dados, tratamento dos dados com Power Query, analise critica sobre os dados, desenvolvimento de Dashboards e publicação.
+
+# DASHBOARDS:
+
+
