@@ -1,24 +1,55 @@
-# Power BI Dados de Varejo   
+# Business Intelligence em Escritório de Advocacia
 
-Conhecendo e tratando os dados, formulando perguntas, desenvolvendo Dashboards e publicando
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
+<img src="https://user-images.githubusercontent.com/103366124/168443488-dae09a30-ffbb-4d04-a1c5-b7ea4c646142.png" width="1028" height="400"/> 
 
-# Conhecendo e tratando os dados:
-
-
-![image](https://user-images.githubusercontent.com/103366124/163886299-5abdc896-de66-4678-ac51-dc3e60933369.png)
+[Fonte da Imagem](https://querobolsa.com.br/revista/gastos-extras-curso-de-direito)
 
 
 
-# Foram feitas as seguintes perguntas:
+
+# Projeto implementado em uma base de dados fictícia
+
+Com o intuito de demonstrar a importância da utilização de Dashboards para o controle das métricas do escritório, dando a possibilidade para que o mesmo faça acompanhamento das metas e oferecendo uma visão esclarecedora do desempenho organizacional.
+Importante frisar que de posse de tais informações, é possível ter uma visão geral de todo o funcionamento do escritório e seus resultados de maneira simples e visualmente fácil de interpretar, facilitando a tomada de decisão.
 
 
-![image](https://user-images.githubusercontent.com/103366124/163886388-08de80b3-5468-4d2c-81e1-f16a8398449b.png)
 
 
+# Conjunto de Dados
 
-# Neste curso desenvolvi a habilidade de modelagem dos dados, tratamento dos dados com Power Query, analise critica sobre os dados, desenvolvimento de Dashboards e publicação.
+O conjunto de dados é formado a partir de um dataset fictício, criado por [Francisco Tadeu Foz](https://github.com/FranciscoFoz).
 
-# DASHBOARDS:
+[Base de Dados](https://www.kaggle.com/datasets/franciscotadeufoz/legal-claims-fast-food-restaurants)
 
+### Atividades sugeridas pelo autor da base de dados
+
+O departamento jurídico de uma rede de fast food (hambúrgueres e frango frito) no Brasil extraiu um conjunto de dados para o mês atual de julho de 2020 de seu sistema.
+
+Eles gostariam de entender brevemente alguns indicadores-chave:
+
+* Quantas reivindicações você tem no total?
+* Quantas reclamações existem por tipo de área jurídica?
+* Qual é o valor total da provisão deste mês?
+* Qual é o valor total do risco para este mês?
+* Qual unidade de negócios tem o maior número de ações?
+
+Explore também:
+
+Quais agências têm o maior número de reclamações?
+Quantas reclamações já foram encerradas?
+Existe alguma correlação entre os advogados dos queixosos?
+Quais são os tipos de posições que abriram uma reclamação?
+Sinta-se à vontade para explorar mais.
+
+# Ferramenta Utilizada
+
+Foi utilizado o Power BI como ferramenta para ETL e apresentação dos dados.
+
+# Resultado
+
+[Dashboards]()
+
+Alguns exemplos:
 
