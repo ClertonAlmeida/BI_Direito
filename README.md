@@ -9,9 +9,9 @@
 
 
 
-# Projeto implementado em uma base de dados fictícia
+# Objetivo do Projeto
 
-Com o intuito de demonstrar a importância da utilização de Dashboards para o controle das métricas do escritório, dando a possibilidade para que o mesmo faça acompanhamento das metas e oferecendo uma visão esclarecedora do desempenho organizacional.
+O projeto tem o intuito de demonstrar a importância da utilização de Dashboards para o controle das métricas do escritório, dando a possibilidade para que o mesmo faça acompanhamento das metas e oferecendo uma visão esclarecedora do desempenho organizacional.
 Importante frisar que de posse de tais informações, é possível ter uma visão geral de todo o funcionamento do escritório e seus resultados de maneira simples e visualmente fácil de interpretar, facilitando a tomada de decisão.
 
 
@@ -19,7 +19,7 @@ Importante frisar que de posse de tais informações, é possível ter uma visã
 
 # Conjunto de Dados
 
-O conjunto de dados é formado a partir de um dataset fictício, criado por [Francisco Tadeu Foz](https://github.com/FranciscoFoz).
+O conjunto de dados é formado a partir de um dataset fictício.
 
 [Base de Dados](https://www.kaggle.com/datasets/franciscotadeufoz/legal-claims-fast-food-restaurants)
 
