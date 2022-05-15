@@ -54,5 +54,5 @@ Foi utilizado o Power BI como ferramenta para ETL e apresentação dos dados.
 Alguns exemplos:
 
 
-<img src="https://user-images.githubusercontent.com/103366124/168479396-80d3a2f8-2f68-420f-b795-ff07cd123323.JPG" width="1028" height="400"/> 
+<img src="https://user-images.githubusercontent.com/103366124/168481987-10a0f4d8-04de-419a-a45d-f306cd481899.JPG" width="1028" height="400"/> 
 
