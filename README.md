@@ -49,7 +49,9 @@ Foi utilizado o Power BI como ferramenta para ETL e apresentação dos dados.
 
 # Resultado
 
-[Dashboards]()
+[Dashboards](https://app.powerbi.com/view?r=eyJrIjoiZGMxOTU2ZjctMGIyZS00NzIyLThkY2EtNzUzZmQ1ZWE0ZDNlIiwidCI6IjkxZDJkNjM0LTNjZDctNGY3Mi04ZWZkLTljZWEyN2EzNmRhYSJ9)
 
 Alguns exemplos:
 
+
+<img src="https://user-images.githubusercontent.com/103366124/168479396-80d3a2f8-2f68-420f-b795-ff07cd123323.JPG" width="1028" height="400"/> 
