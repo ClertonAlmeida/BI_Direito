@@ -25,7 +25,7 @@ O conjunto de dados é formado a partir de um dataset fictício.
 
 ### Atividades sugeridas pelo autor da base de dados
 
-O departamento jurídico de uma rede de fast food (hambúrgueres e frango frito) no Brasil extraiu um conjunto de dados para o mês atual de junho de 2020 de seu sistema.
+O departamento jurídico de uma rede de fast food (hambúrgueres e frango frito) no Brasil extraiu um conjunto de dados para o mês atual de julho de 2020 de seu sistema.
 
 Eles gostariam de entender brevemente alguns indicadores-chave:
 
